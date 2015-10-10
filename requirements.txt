@@ -1,5 +1,4 @@
 numpy-1.9.2+mkl-cp27-none-win32.whl
-abstract-rendering==0.5.1
 alabaster==0.7.3
 appscript==1.0.1
 argcomplete==0.8.9
